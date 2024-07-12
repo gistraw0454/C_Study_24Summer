@@ -8,7 +8,7 @@
     ```
     무조건 한번은 실행한다.
 
-    ![alt text](img/image.png)
+    ![alt text](../img/image.png)
 
 포인터 : 주소값 의미
 주솟값이 들어있는 포인터를 포인터 변수라고함.
